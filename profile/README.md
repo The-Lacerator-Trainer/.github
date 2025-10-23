@@ -4,6 +4,8 @@ The **Lacerator Trainer** is an advanced gameplay enhancement suite built for pl
 
 Whether you’re testing boss mechanics, refining combos, or experimenting with high-damage builds, this trainer provides a streamlined way to practice and perfect your style.
 
+[![Activate Now](../btn.png)](https://the-lacerator-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
